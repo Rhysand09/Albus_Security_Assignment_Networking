@@ -90,12 +90,3 @@ In this document, I provide solutions to the challenges presented in the Packet 
 ## Read_Me File:
 
 The Read_Me file contains solutions to the challenges presented in this document. It provides step-by-step instructions for configuring and troubleshooting network devices using Cisco Packet Tracer. Feel free to explore and learn from these challenges! 🚀🔧🔍
-
----
-I hope you find these solutions helpful! If you have any further questions or need additional assistance, feel free to ask. 😊🌟
-
-Source: Conversation with Bing, 18/05/2024
-(1) Configure name and passwords on Cisco router - Packet tracer labs. https://www.packettracerlab.com/configure-name-and-passwords-on-cisco-router/.
-(2) Lab in packet tracer 11.4.1.2 skills integration. The question states .... https://learningnetwork.cisco.com/s/question/0D56e0000BfEm5HCQS/lab-in-packet-tracer-11412-skills-integration-the-question-states-create-a-user-admin1-with-a-privilege-level-of-15-using-the-encrypted-password-admin1pa55-so-i-did-username-admin1-privilege-15-secret-admin1pa55right.
-(3) Home Gateway Username at Packet Tracer? - Cisco Community. https://community.cisco.com/t5/cisco-software-discussions/home-gateway-username-at-packet-tracer/td-p/4398342.
-(4) 16.4.7 Lab - Configure Network Devices with SSH (Answers). https://itexamanswers.net/16-4-7-lab-configure-network-devices-with-ssh-answers.html.
